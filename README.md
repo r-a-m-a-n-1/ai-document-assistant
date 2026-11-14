@@ -273,14 +273,4 @@ ai-document-assistant/
 - [ ] Cloud deployment
 - [ ] Distributed vector storage
 
-## License
 
-MIT License
-
-## Author
-
-**Nihar Mandal**
-
-BTech — Artificial Intelligence & Machine Learning
-
-[GitHub](https://github.com/Niharm31) · [LinkedIn](https://www.linkedin.com/in/nihar-mandal-b512b5288)
